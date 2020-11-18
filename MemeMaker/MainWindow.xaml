@@ -122,7 +122,7 @@
                        LastChildFill="False"
                        Margin="5">
                 <Button DockPanel.Dock="Right"
-                        Content="Guardar"
+                        Content="Descargar"
                         Click="Button_Click"
                         Margin="5"
                         Width="100"/>
