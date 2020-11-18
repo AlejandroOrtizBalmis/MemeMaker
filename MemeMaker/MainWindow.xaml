@@ -50,7 +50,8 @@
         <local:ConvertidorBorde x:Key="conversorBorde" />
         <local:Model x:Key="Foto" />
     </Window.Resources>
-    <ScrollViewer VerticalScrollBarVisibility="Auto">
+    <ScrollViewer VerticalScrollBarVisibility="Auto"
+                  HorizontalScrollBarVisibility="Auto">
     <DockPanel LastChildFill="False">
         <DockPanel  DockPanel.Dock="Top"
                     Style="{StaticResource form}">
