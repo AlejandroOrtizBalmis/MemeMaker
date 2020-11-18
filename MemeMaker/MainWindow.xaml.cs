@@ -10,7 +10,7 @@ namespace MemeMaker
     /// </summary>
     public partial class MainWindow : Window
     {
-        private Model DataModel
+        private Model DataModel 
         {
             get { return this.Resources["Foto"] as Model; }
         }
